@@ -33,6 +33,3 @@ int main() {
             cout << "Error! operator is not correct";
             break;
     }
-
-    return 0;
-}
