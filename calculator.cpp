@@ -12,7 +12,7 @@ int main() {
     cin >> num1 >> num2;
 
     switch(op) {
-        case '+':
+        case '+':::::
             cout << num1 << " + " << num2 << " = " << num1 + num2;
             break;
 
